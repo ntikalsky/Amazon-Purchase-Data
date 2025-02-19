@@ -9,9 +9,9 @@ A dummy csv file has been provided.
 
 Install and run Anaconda prompt (https://www.anaconda.com/download) to use required packages. [pandas]
 
-Drop Amazon Purhcase data .csv into root folder and rename to amazon-orders.csv
+Drop Amazon Purchase data .csv into root folder and rename to amazon-orders.csv
 
-Navigate to purhcase data folder in Anaconda prompt.
+Navigate to purchase data folder in Anaconda prompt.
 
 Run python main.py
 
